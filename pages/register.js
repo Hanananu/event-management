@@ -25,7 +25,7 @@ const register = () => {
 	return (
 		<div>
 			<Head>
-				<title>Register | EventTiz</title>
+				<title>Register | EventRage</title>
 				<meta
 					name='description'
 					content='An event ticketing system built with NextJS and Firebase'
@@ -104,7 +104,7 @@ const register = () => {
 					</form>
 					<div className='absolute bottom-5 left-5'>
 						<p className='opacity-50 text-sm'>
-							<Link href='/'>EventTiz</Link> &copy; Copyright{" "}
+							<Link href='/'>EventRage</Link> &copy; Copyright{" "}
 							{new Date().getFullYear()}{" "}
 						</p>
 					</div>
@@ -112,11 +112,11 @@ const register = () => {
 				<div className='register md:w-[40%] h-[100vh] relative'>
 					<div className='absolute bottom-5 right-5'>
 						<a
-							href='https://github.com/dha-stix'
+							href='https://github.com/Hanananu'
 							target='_blank'
 							className='text-gray-100'
 						>
-							Built by David Asaolu
+							Built by Hanan Anu
 						</a>
 					</div>
 				</div>
