@@ -15,7 +15,7 @@ const HomeSection = () => {
 		{
 			id: 2,
 			title: "Add an upcoming event",
-			content: "Create and manage your memorable events using EvenTiz",
+			content: "Create and manage your memorable events using EventRage",
 			image: event,
 		},
 		{
